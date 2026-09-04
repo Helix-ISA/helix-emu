@@ -35,5 +35,6 @@
 #define R31 0x1F
 
 #define NO_REG 0xFF
+#define NUMBER_OF_GPR 32
 
 #endif
